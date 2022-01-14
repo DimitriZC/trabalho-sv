@@ -1,0 +1,18 @@
+{
+  "name": "ipTracker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Dimitri & Furuya",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
